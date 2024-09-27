@@ -5,6 +5,9 @@ const SpecialityMenu = () => {
     <div id='speciality'>
         <h1>Find By Speciality</h1>
         <p>Simply browse through our extensive list of trusted doctors, schedule your appointment hassle-free</p>
+        <p>
+            adil
+        </p>
 
     </div>
   )
